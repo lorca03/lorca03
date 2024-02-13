@@ -7,9 +7,9 @@ Soy técnico superior en desarrollo de aplicaciones web y multiplataforma. Me en
 - 🎓 Técnico Superior en Desarrollo de Aplicaciones Web y Multiplataforma
 
 ## Proyectos Destacados
-- 🌐 [Proyecto 1](enlace_proyecto_1): Breve descripción del proyecto y enlace al repositorio.
-- 🚗 [Proyecto 2](enlace_proyecto_2): Breve descripción del proyecto y enlace al repositorio.
-- ⚙️ [Proyecto 3](enlace_proyecto_3): Breve descripción del proyecto y enlace al repositorio.
+- 🎥 [Filmss](https://github.com/lorca03/TFG-Guillermo_Lorca): Aplicación desarrollada con Laravel y desplegada en Docker. Presenta un scroll infinito de películas y series, con un sistema de amigos y una funcional Watchlist personalizada.
+- 🎮 [NeonGame](https://github.com/lorca03/GameUnity/tree/main/Game1): Juego desarrollado en Unity, un plataformas 2.5D con una base de datos en Firebase.
+- 💰 [MONEDA](https://github.com/lorca03/DIW_Proyecto_IONIC): Proyecto individual de Angular. MONEDA es una cartera online sencilla e intuitiva que te permite crear una cuenta, añadir tus tarjetas y realizar transacciones de manera fácil y segura.
 
 ## Lenguajes y Herramientas
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
