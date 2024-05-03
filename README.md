@@ -23,4 +23,4 @@ Soy técnico superior en desarrollo de aplicaciones web y multiplataforma. Me en
 
 ## Contacto
 - 📧 Correo electrónico: guillermolorcamartinez@gmail.com
-- 💼 LinkedIn: ![Guillermo Lorca](www.linkedin.com/in/guillermo-lorca)
+- 💼 LinkedIn: [Guillermo Lorca](https://linkedin.com/in/guillermo-lorca)
