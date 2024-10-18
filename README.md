@@ -1,6 +1,6 @@
 ### Bienvenido, soy Guillermo Lorca 👋
 
-Soy técnico superior en desarrollo de aplicaciones web y multiplataforma. Me encanta explorar y aprender sobre diversos lenguajes y tecnologías para mejorar mis habilidades y construir cosas increíbles.
+Soy técnico superior en desarrollo de aplicaciones web y multiplataforma. Me encanta explorar y aprender sobre diversos lenguajes y tecnologías para mejorar mis habilidades y construir cosas increíbles. Para saber un poco mas de mi podeis visitar mi [portfolio](https://guillermolorca.es) 
 
 ## Acerca de mí
 - 🚀 Desarrollador autodidacta
